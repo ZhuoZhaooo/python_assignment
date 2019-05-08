@@ -9,4 +9,4 @@
 
 * The file test_kmers is the script that tests all of the functions above
 
-* The main function is written as ''' if __name__ == '__main__' '''
+* The main function is written as ```if __name__ == '__main__' ```
