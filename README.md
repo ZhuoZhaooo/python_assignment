@@ -10,3 +10,23 @@
 * The file test_kmers is the script that tests all of the functions above
 
 * The main function is written as ```if __name__ == '__main__' ```
+
+The result should be:
+
+========================================================================
+This is the dataframe
+========================================================================
+   Observed kmers  Possible kmers
+k
+1               3               4
+2               5               8
+3               6               7
+4               6               6
+5               5               5
+6               4               4
+7               3               3
+8               2               2
+9               1               1
+========================================================================
+The linguistic complexity is 0.875
+========================================================================
