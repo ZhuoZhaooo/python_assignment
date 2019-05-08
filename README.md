@@ -11,4 +11,4 @@
 
 * The main function is written as ```if __name__ == '__main__' ```
 
-![Screenshot](screenshot.png)
+![Screenshot](Figure_1.png)
