@@ -11,6 +11,6 @@
 
 * The main function is written as ```if __name__ == '__main__' ```
 
-The expected result after running the program
+### The expected result after running the program
 ![Screenshot](ScreenClip.png)
 ![Screenshot](Figure_1.png)
